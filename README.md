@@ -2,6 +2,8 @@
 
 ## Selected papers
 
+* Deep MANTA: A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image. CVPR'17. Arxiv [1703.07570v1](https://arxiv.org/abs/1703.07570). Achieved state-of-the-art [results](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=6759889c0a252c63765d5e2e69cb8b1433cadb0a) (96.4/90.1/80.79 mAP) for vehicle detection on [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset.
+
 * Rethinking Reprojection: Closing the Loop for Pose-aware Shape Reconstruction from a Single Image. ICCV'17. Arxiv [1707.04682](https://arxiv.org/abs/1707.04682 "PDF"). [Supplementary Material](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/rr_sup.pdf "PDF").
 
 * MarrNet: 3D Shape Reconstruction via 2.5D Sketches. Arxiv [1711.03129](https://arxiv.org/abs/1711.03129 "PDF").
