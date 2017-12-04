@@ -22,4 +22,7 @@
 
 * [HoME](https://home-platform.github.io) a Household Multimodal Environment for artificial agents to learn from vision, audio, semantics, physics, and interaction with objects and other agents, all within a realistic context.
 
+## Other references
+
+* [A year in CV](http://www.themtank.org/a-year-in-computer-vision), the MTank.
 
