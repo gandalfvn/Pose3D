@@ -2,6 +2,8 @@
 
 ## Selected papers
 
+* SMPLify: Automatic Estimation of 3D Human Pose and Shape from a Single Image. ECCV'16. Code from MPI [project page](http://smplify.is.tuebingen.mpg.de). See also BodyLab [SMPL](http://smpl.is.tue.mpg.de). Follow-up 12/2017: end-to-end method; code from Berkeley [project page](https://akanazawa.github.io/hmr/).
+
 * Accurate Single Stage Detector Using Recurrent Rolling Convolution. CVPR'17. Arxiv [1704.05776](https://arxiv.org/abs/1704.05776). Competitive [results](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) on [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset. Code on [github](https://github.com/xiaohaoChen/rrc_detection).
 
 * Deep MANTA: A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image. CVPR'17. Arxiv [1703.07570v1](https://arxiv.org/abs/1703.07570). Part of a self-driving car [project](http://www.bdva.eu/sites/default/files/%5B30th_Nov%5D-10-Geraud_CEA.pdf) called [Easy Mile](http://easymile.com). Achieved top [results](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=6759889c0a252c63765d5e2e69cb8b1433cadb0a) (96.4/90.1/80.79 mAP, as of Nov. 2017) for vehicle detection on [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset.
